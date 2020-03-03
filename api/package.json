@@ -1,0 +1,24 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "Servidor de Aplicacion de en NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: Maria José, acá tenemos un testigo\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "NodeJS",
+    "Servidor",
+    "Aplicaciones",
+    "APIS"
+  ],
+  "author": "Eder Lara T",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
